@@ -1,0 +1,136 @@
+***Cadastro de funcionarios***
+
+Escolha sua ação 
+ 1- Cadastrar funcionario 
+ 2- Mostrar funcionarios
+ 3- Sair 
+
+1
+
+Deseja cadastrar 1- Vendedor, 2- Gerente ou 3- Desenvolvedor 
+
+1
+
+Digite o nome do funcionario:Mateus
+Digite o CPF do funcionario:1234567910
+Digite o salario:1500
+Digite o total de vendas neste mês: 15
+
+Escolha sua ação 
+ 1- Cadastrar funcionario 
+ 2- Mostrar funcionarios
+ 3- Sair 
+
+1
+
+Deseja cadastrar 1- Vendedor, 2- Gerente ou 3- Desenvolvedor 
+
+2
+
+Digite o nome do funcionario:Paulo
+Digite o CPF do funcionario:11122233344
+Digite o salario:2200
+
+Escolha sua ação 
+ 1- Cadastrar funcionario 
+ 2- Mostrar funcionarios
+ 3- Sair 
+
+1
+
+Deseja cadastrar 1- Vendedor, 2- Gerente ou 3- Desenvolvedor 
+
+3
+
+Digite o nome do funcionario:Pedro
+Digite o CPF do funcionario:99988877766
+Digite o salario:1750
+
+**Amostra de informações dos funcionarios***
+
+Escolha sua ação 
+ 1- Cadastrar funcionario 
+ 2- Mostrar funcionarios
+ 3- Sair 
+
+2
+
+Funcionário: Mateus
+Cargo: Vendedor
+Salário: 1500.0
+Bonificação: 225.0
+Comissão: 150.0
+Remuneração total: 1875.0
+Total de vendas:15
+------------------------------------------
+Funcionário: Paulo
+Cargo: Gerente
+Salário: 2200.0
+Bonificação: 440.0
+Remuneração total: 2640.0
+------------------------------------------
+Funcionário: Pedro
+Cargo: Desenvolvedor
+Salário: 1750.0
+Bonificação: 175.0
+Remuneração total: 1925.0
+------------------------------------------
+Gasto total da empresa: 6440.0
+
+***Teste de erros***
+
+Escolha sua ação 
+ 1- Cadastrar funcionario 
+ 2- Mostrar funcionarios
+ 3- Sair 
+
+1
+
+Deseja cadastrar 1- Vendedor, 2- Gerente ou 3- Desenvolvedor 
+
+1
+
+Digite o nome do funcionario:
+Nome invalido, tente novamente
+
+Escolha sua ação 
+ 1- Cadastrar funcionario 
+ 2- Mostrar funcionarios
+ 3- Sair 
+
+1
+
+Deseja cadastrar 1- Vendedor, 2- Gerente ou 3- Desenvolvedor 
+
+1
+
+Digite o nome do funcionario:Luiz
+Digite o CPF do funcionario:
+CPF invalido, tente novamente
+
+Escolha sua ação 
+ 1- Cadastrar funcionario 
+ 2- Mostrar funcionarios
+ 3- Sair 
+
+1
+
+Deseja cadastrar 1- Vendedor, 2- Gerente ou 3- Desenvolvedor 
+
+1
+
+Digite o nome do funcionario:Luiz
+Digite o CPF do funcionario:68818868811
+Digite o salario:
+Valor invalido, tente novamente
+
+Escolha sua ação 
+ 1- Cadastrar funcionario 
+ 2- Mostrar funcionarios
+ 3- Sair 
+
+3
+
+Volte novamente
+
+Process finished with exit code 0
